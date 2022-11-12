@@ -1,0 +1,15 @@
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\net6.0\WheelOfFortune.csproj.AssemblyReference.cache
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\net6.0\WheelOfFortune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\net6.0\WheelOfFortune.AssemblyInfoInputs.cache
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\net6.0\WheelOfFortune.AssemblyInfo.cs
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\net6.0\WheelOfFortune.csproj.CoreCompileInputs.cache
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\bin\Debug\net6.0\WheelOfFortune.exe
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\bin\Debug\net6.0\WheelOfFortune.deps.json
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\bin\Debug\net6.0\WheelOfFortune.runtimeconfig.json
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\bin\Debug\net6.0\WheelOfFortune.dll
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\bin\Debug\net6.0\WheelOfFortune.pdb
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\net6.0\WheelOfFortune.dll
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\net6.0\refint\WheelOfFortune.dll
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\net6.0\WheelOfFortune.pdb
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\net6.0\WheelOfFortune.genruntimeconfig.cache
+C:\Users\alep0u\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\net6.0\ref\WheelOfFortune.dll
